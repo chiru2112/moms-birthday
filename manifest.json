@@ -1,0 +1,9 @@
+{
+  "name": "A Little Surprise for Sowmya",
+  "short_name": "Mom's Surprise",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffe5ed",
+  "theme_color": "#d65a99",
+  "orientation": "portrait"
+}
